@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="CftTestTaskMergeSort:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/CftTestTaskMergeSort_jar</output-path>
+    <root id="archive" name="CftTestTaskMergeSort.jar">
+      <element id="module-output" name="CftTestTaskMergeSort" />
+    </root>
+  </artifact>
+</component>

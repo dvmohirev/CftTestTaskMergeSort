@@ -1,0 +1,23 @@
+Убывание Числа 3 файла
+-d -i C:\Users\mokhi\IdeaProjects\LastMergeSort\src\out.txt C:\Users\mokhi\IdeaProjects\LastMergeSort\src\in1.txt C:\Users\mokhi\IdeaProjects\LastMergeSort\src\in2.txt C:\Users\mokhi\IdeaProjects\LastMergeSort\src\in3.txt
+
+Убывание Числа 2 файла
+-d -i C:\Users\mokhi\IdeaProjects\LastMergeSort\src\out.txt C:\Users\mokhi\IdeaProjects\LastMergeSort\src\in1.txt C:\Users\mokhi\IdeaProjects\LastMergeSort\src\in2.txt
+
+Возрастание Числа 3 файла
+-a -i C:\Users\mokhi\IdeaProjects\LastMergeSort\src\out.txt C:\Users\mokhi\IdeaProjects\LastMergeSort\src\in1.txt C:\Users\mokhi\IdeaProjects\LastMergeSort\src\in2.txt C:\Users\mokhi\IdeaProjects\LastMergeSort\src\in3.txt
+
+Возрастание Числа 2 файла
+-a -i C:\Users\mokhi\IdeaProjects\LastMergeSort\src\out.txt C:\Users\mokhi\IdeaProjects\LastMergeSort\src\in1.txt C:\Users\mokhi\IdeaProjects\LastMergeSort\src\in2.txt
+
+Возрастание Строки 3 файла
+-a -s C:\Users\mokhi\IdeaProjects\LastMergeSort\src\out.txt C:\Users\mokhi\IdeaProjects\LastMergeSort\src\inStr1.txt C:\Users\mokhi\IdeaProjects\LastMergeSort\src\inStr2.txt C:\Users\mokhi\IdeaProjects\LastMergeSort\src\inStr3.txt
+
+Возрастание Строки 2 файла
+-a -s C:\Users\mokhi\IdeaProjects\LastMergeSort\src\out.txt C:\Users\mokhi\IdeaProjects\LastMergeSort\src\inStr1.txt C:\Users\mokhi\IdeaProjects\LastMergeSort\src\inStr2.txt
+
+Убывание Строки 3 файла
+-d -s C:\Users\mokhi\IdeaProjects\LastMergeSort\src\out.txt C:\Users\mokhi\IdeaProjects\LastMergeSort\src\inStr1.txt C:\Users\mokhi\IdeaProjects\LastMergeSort\src\inStr2.txt C:\Users\mokhi\IdeaProjects\LastMergeSort\src\inStr3.txt
+
+Убывание Строки 3 файла
+-d -s C:\Users\mokhi\IdeaProjects\LastMergeSort\src\out.txt C:\Users\mokhi\IdeaProjects\LastMergeSort\src\inStr1.txt C:\Users\mokhi\IdeaProjects\LastMergeSort\src\inStr2.txt
